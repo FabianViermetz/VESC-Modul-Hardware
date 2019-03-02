@@ -18,7 +18,7 @@ The VESC 6 Modul is a small electronics only platform that is compatible with th
 Top View:
 ![Top View](https://github.com/FabianViermetz/VESC-Modul-Hardware/blob/master/VESCmodul1.PNG)
 Bottom View:
-![Bottom View](https://github.com/FabianViermetz/VESC-Modul-Hardware/master/VESCmodul2.PNG)
+![Bottom View](https://github.com/FabianViermetz/VESC-Modul-Hardware/blob/master/VESCmodul2.PNG)
 
 Next to the STM32F405RGT, the DRV 8320RS is used for driving the 3-Phase-Inverter.
 the Board features all voltage deviding and filtering hardware, so the user only needs to connect the inputs and outputs of the modul to the required periferals respectively.
