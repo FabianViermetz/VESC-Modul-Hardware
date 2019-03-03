@@ -1,4 +1,4 @@
-# VESC -6 Micro-Module
+# VESC6 - Micro-Module
 The VESC 6 Module is a small electronics-only platform that is compatible with the VESC firmware. It contains all mandatory electronics and can be combined with a wide range of mosfets and current sensing configurations.
 
 
