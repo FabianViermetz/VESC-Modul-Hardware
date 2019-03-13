@@ -1,5 +1,5 @@
 (sym_lib_table
-  (lib (name VESC_modul_lib)(type Legacy)(uri C:/Users/fabsv/OneDrive/Andere/Projekte/VESCmodul/VESC_modul/VESC_modul_lib.lib)(options "")(descr ""))
-  (lib (name std_vesc)(type Legacy)(uri C:/Users/fabsv/OneDrive/Andere/Projekte/VESCmodul/VESC_modul/Libraries/crf_1.lib)(options "")(descr ""))
-  (lib (name mini4_vesc)(type Legacy)(uri "C:/Users/fabsv/OneDrive/Andere/Projekte/VESCmodul/VESC_modul/MINI4/MINI VESC-cache.lib")(options "")(descr ""))
+  (lib (name VESC_modul_lib)(type Legacy)(uri C:/Users/fabsv/OneDrive/Andere/Projekte/GitHub/VESC-Modul-Hardware/VESC_modul_lib.lib)(options "")(descr ""))
+  (lib (name std_vesc)(type Legacy)(uri C:/Users/fabsv/OneDrive/Andere/Projekte/GitHub/VESC-Modul-Hardware/Libraries/crf_1.lib)(options "")(descr ""))
+  (lib (name mini4_vesc)(type Legacy)(uri "C:/Users/fabsv/OneDrive/Andere/Projekte/GitHub/VESC-Modul-Hardware/MINI4/MINI VESC-cache.lib")(options "")(descr ""))
 )
